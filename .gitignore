@@ -2,14 +2,11 @@
 /.gradle/
 /build/
 /.idea/
-/bots/
-/data/
-/gradle/
-/MxLibData/
-/plugins/
 /test/
 /out/
 /run/
+/MxLibData/
+/plugins/
 
 
 
