@@ -9,12 +9,11 @@ import net.mamoe.mirai.console.util.ConsoleExperimentalApi
 
 @ConsoleExperimentalApi
 suspend fun main() {
-
+    //this ia dev
     MiraiConsoleTerminalLoader.startAsDaemon()
 
     PluginMain.load()
     PluginMain.enable()
-
     MiraiConsole.addBot(2919025603, "NUISTrobot@") {
         fileBasedDeviceInfo()
     }.alsoLogin()
