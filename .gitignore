@@ -1,7 +1,17 @@
-# Project exclude paths
+## Project exclude paths
 /.gradle/
 /build/
 /.idea/
 /test/
 /out/
 /run/
+/bots/
+/config/
+/data/
+/gradle/
+/MxLibData/
+/plugins/
+
+
+
+

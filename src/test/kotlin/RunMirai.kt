@@ -18,6 +18,6 @@ suspend fun main() {
     MiraiConsole.addBot(2919025603, "NUISTrobot@") {
         fileBasedDeviceInfo()
     }.alsoLogin()
-
     MiraiConsole.job.join()
+
 }
