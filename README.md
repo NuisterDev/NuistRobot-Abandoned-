@@ -1,1 +1,3 @@
-Nuist bot
+Nuist bot with kotlin 
+
+Abandoned
